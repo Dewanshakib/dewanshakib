@@ -2,7 +2,7 @@
 #### A passionate frontend developer from bangladesh
 I am a student. I love to code. My specialty is web development. I want to be a professional programmer.
 
-Skills: REACT / JS / HTML / CSS/Node Js
+Skills: REACT / JS / HTML / CSS/ Node Js
 
 - 🌱 I’m currently learning React Js 
 - 💬 Ask me about React 
