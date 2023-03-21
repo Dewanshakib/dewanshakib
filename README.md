@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Dewan Shakib
 #### A passionate frontend developer from bangladesh
-I am student.I love to code.My speciality is on web development.I want to be professional programmer.
+I am a student. I love to code. My specialty is web development. I want to be a professional programmer.
 
 Skills: REACT / JS / HTML / CSS/Node Js
 
