@@ -16,10 +16,6 @@ Skills: REACT / JS / HTML / CSS/Node Js
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dewanshakib)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dewanshakib&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dewanshakib)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Dewanshakib)  
