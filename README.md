@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewan Shakib</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **react**
 
