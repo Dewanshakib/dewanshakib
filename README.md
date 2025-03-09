@@ -7,7 +7,7 @@ Web Developer
 I am an experienced web developer with 1.5 years of expertise in front-end and back-end technologies. Proficient in HTML, CSS, and JavaScript,React Js,Next Js I specialize in creating responsive and visually appealing websites.
 
 * 🌍  I'm based in Dhaka
-* ✉️  You can contact me at [shakibrocks2042@gmail.com](mailto:shakibrocks2042@gmail.com)
+* ✉️  You can contact me at [shakib.devv@gmail.com](mailto:shakibrocks2042@gmail.com)
 * 🧠  I'm learning Next Js
 
 ### Skills
