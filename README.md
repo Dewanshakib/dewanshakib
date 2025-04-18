@@ -8,7 +8,7 @@ I am an experienced web developer with 1.5 years of expertise in front-end and b
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [shakib.devv@gmail.com](mailto:shakibrocks2042@gmail.com)
-* 🧠  I'm learning Next Js
+* 🧠  I'm learning React & Next Js
 
 ### Skills
 
