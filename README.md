@@ -1,4 +1,4 @@
-Hi 👋 My name is DM Shakib
+Hi 👋 My name is Shakib
 ==========================
 
 # 💫 About Me:
