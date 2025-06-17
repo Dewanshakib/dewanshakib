@@ -2,7 +2,7 @@ Hi 👋 My name is Shakib
 ==========================
 
 # 💫 About Me:
-🔭 I’m currently working on some Mern projects<br>🌱 I’m currently learning NextJs<br>💬 Ask me about React
+🔭 I’m currently working on my mern Pinterest like app<br>🌱 I’m currently learning NextJs<br>💬 Ask me about React
 
 
 ## 🌐 Socials:
