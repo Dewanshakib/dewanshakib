@@ -1,9 +1,8 @@
 Hi 👋 My name is Shakib
 ==========================
 
-# 💫 About Me:
-🔭 I’m currently working on my MERN Pinterest-like app  
-🌱 I’m currently learning PostgreSQL  
+# 💫 About Me: 
+🌱 I’m currently learning SQL  
 💬 Ask me about React
 
 ## 🌐 Socials:
