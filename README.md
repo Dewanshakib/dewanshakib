@@ -1,5 +1,5 @@
 # Hi 👋 My name is Shakib
-### 🚀 Tech explorer | React Dev | Currently learning SQL
+### 🚀 Tech explorer | React Dev
 
 ---
 
