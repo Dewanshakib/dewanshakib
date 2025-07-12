@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 - 🌱 I’m currently learning **SQL**
-- 💬 Ask me about **React, Next.js, MongoDB, Express**
+- 💬 Ask me about **React**
 
 ---
 
