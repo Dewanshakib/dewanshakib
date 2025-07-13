@@ -1,5 +1,5 @@
 # Hi 👋 My name is Shakib
-### 🚀 Tech explorer | React Dev
+### 🚀 Tech explorer | React Dev | Ai Enthusiast
 
 ---
 
