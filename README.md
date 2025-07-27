@@ -45,6 +45,9 @@
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-292929?style=for-the-badge&logoColor=white)
 
+**Backend Services**  
+![Nodemailer](https://img.shields.io/badge/Nodemailer-246?style=for-the-badge&logo=nodemailer&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats  
