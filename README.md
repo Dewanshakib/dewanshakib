@@ -51,14 +51,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib&theme=radical&hide_border=false&layout=compact)
 
 </div>
-
----
-
-## 🔧 Currently Building  
-- 🔐 Full-stack auth apps with JWT & cookies  
-- 📈 Dashboard with charts & state management  
-- 🎯 AI tools and productivity apps using OpenAI  
-
----
-
-> ⚡️ “Code it like it’s your superpower.” — *Shakib, probably*  
