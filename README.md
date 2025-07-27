@@ -41,6 +41,10 @@
 ![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230074D9.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Form & Validation**  
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-292929?style=for-the-badge&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats  
