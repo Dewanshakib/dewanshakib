@@ -56,7 +56,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dewanshakib&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Shakib's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dewanshakib&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Shakib's GitHub stats" />
   <img src="https://github-dewanshakib-readme-streak-st.vercel.app?user=Dewanshakib&theme=radical" alt="GitHub Streak" />
 </p>
 
