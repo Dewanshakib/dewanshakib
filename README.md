@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Shakib  
-### 🚀 FullStack Developer & 🧠 AI Enthusiast
+### 🚀 FullStack Web Developer & 🧠 AI Enthusiast
 
 ---
 
