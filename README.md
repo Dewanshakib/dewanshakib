@@ -4,9 +4,8 @@
 ---
 
 ## 💫 About Me  
-- 🌱 Currently learning **SQL** & **Generative AI** 
-- 🧩 Love building full-stack apps with modern tech  
-- 💬 Ask me about **React**, **Next.js**, or how I balance state with **Zustand/Redux**  
+- 🌱 Currently learning **GO** & **Generative AI** 
+- 🧩 Love building full-stack apps with modern tech 
 
 ---
 
