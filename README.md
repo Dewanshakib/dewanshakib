@@ -60,9 +60,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib&theme=radical&layout=compact&hide_border=false&count_private=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib&theme=radical&layout=compact&hide_border=false" />
 </p>
-
 </div>
 
 
