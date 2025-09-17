@@ -53,12 +53,24 @@
 
 ## 📊 My GitHub Stats
 
-![Dewan's GitHub stats](https://github-readme-stats-psi-seven.vercel.app/api?username=Dewanshakib&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-psi-seven.vercel.app/?user=Dewanshakib&theme=radical&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri)](https://git.io/streak-stats)
+  <!-- GitHub Stats + Streak -->
+  <p align="center">
+    <!-- Stats Card (public) -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Dewanshakib&show_icons=true&theme=radical&include_all_commits=true&hide_border=false&count_private=true&v=1" alt="Shakib's GitHub stats" />
 
-![Top Langs](https://github-readme-stats-psi-seven.vercel.app/api/top-langs/?username=Dewanshakib&layout=compact&theme=radical&hide_border=true)
+  </p>
+    <!-- Streak Card (your Vercel) -->
+    <p align="center"> <img src="https://github-readme-streak-stats-psi-seven.vercel.app/?user=Dewanshakib&theme=radical&hide_border=false" alt="GitHub Streak" /></p>
+   
+
+  <!-- Top Languages (public) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib&layout=compact&theme=radical&hide_border=false&v=1" alt="Top Langs" />
 
 </div>
+
+
+
 
 
