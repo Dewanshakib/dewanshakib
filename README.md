@@ -59,9 +59,8 @@
   <img src="https://github-readme-streak-stats-psi-seven.vercel.app/?user=Dewanshakib&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib&theme=radical&layout=compact&hide_border=false" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib&theme=radical&layout=compact&v=2)
+
 </div>
 
 
