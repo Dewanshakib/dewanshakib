@@ -51,15 +51,13 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dewanshakib&theme=radical&include_all_commits=true" alt="Shakib's GitHub stats" />
-  <img src="https://github-readme-streak-stats-psi-seven.vercel.app/?user=Dewanshakib&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+![Dewan's GitHub stats](https://github-readme-stats-psi-seven.vercel.app/api?username=Dewanshakib&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib&theme=radical&layout=compact&v=2)
+[![GitHub Streak](https://github-readme-streak-stats-psi-seven.vercel.app/?user=Dewanshakib&theme=radical&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats-psi-seven.vercel.app/api/top-langs/?username=Dewanshakib&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
