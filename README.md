@@ -52,23 +52,16 @@
 ---
 
 ## 📊 My GitHub Stats
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats-psi-seven.vercel.app/?user=Dewanshakib&theme=radical&hide_border=false" alt="GitHub Streak" />
 
-<div align="center">
-
-  <!-- GitHub Stats + Streak -->
-  <p align="center">
-    <!-- Stats Card (public) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Dewanshakib&show_icons=true&theme=radical&include_all_commits=true&hide_border=false&count_private=true" alt="Shakib's GitHub stats" />
-
-  </p>
-    <!-- Streak Card (your Vercel) -->
-    <p align="center"> <img src="https://github-readme-streak-stats-psi-seven.vercel.app/?user=Dewanshakib&theme=radical&hide_border=false" alt="GitHub Streak" /></p>
-   
-
-  <!-- Top Languages (public) -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshakib&layout=compact&theme=radical&hide_border=false&v=1" alt="Top Langs" />
 
 </div>
+
 
 
 
