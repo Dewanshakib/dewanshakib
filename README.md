@@ -58,7 +58,7 @@
   <!-- GitHub Stats + Streak -->
   <p align="center">
     <!-- Stats Card (public) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Dewanshakib&show_icons=true&theme=radical&include_all_commits=true&hide_border=false&count_private=true&v=1" alt="Shakib's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dewanshakib&show_icons=true&theme=radical&include_all_commits=true&hide_border=false&count_private=true" alt="Shakib's GitHub stats" />
 
   </p>
     <!-- Streak Card (your Vercel) -->
