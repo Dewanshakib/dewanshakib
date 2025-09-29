@@ -4,7 +4,8 @@
 ---
 
 ## 💫 About Me  
-- 🌱 Currently learning **GO** & **Generative AI** 
+- 🌱 Currently learning **GO** & **Generative AI**
+- 📝 Currently working on a **E-commerce** project
 - 🧩 Love building full-stack apps with modern tech 
 
 ---
