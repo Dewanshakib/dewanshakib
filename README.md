@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me  
-- 🌱 Currently learning **JAVA**
+- 🌱 Currently learning **Java**
 - 📝 Currently working on a **E-commerce** project
 - 🧩 Love building full-stack apps with modern tech 
 
