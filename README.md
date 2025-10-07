@@ -51,6 +51,8 @@
 
 **Backend Services**  
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-246?style=for-the-badge&logo=nodemailer&logoColor=white)
+### Payment Integration
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-%230072C6.svg?style=for-the-badge&logo=ssl&logoColor=white)
 
 ---
 
