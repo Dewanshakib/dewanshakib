@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me  
-- 🌱 Currently learning **Generative AI** & exploring **low-level concepts with C**  
+- 🌱 Currently learning **Generative AI** & **low-level concepts + OOP with C++**  
 - 🧠 Building full-stack applications using **Next.js** & **NestJS**  
 - 🧩 Passionate about **AI**, **backend architecture**, and **building scalable systems**
 
