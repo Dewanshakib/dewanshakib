@@ -72,6 +72,10 @@
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge\&logo=redis\&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash-%23000000.svg?style=for-the-badge\&logo=upstash\&logoColor=white)
 
+### 🔄 Microservices
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white&color=231F20)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23E34F26?style=for-the-badge&logo=redis&logoColor=white&color=DC382D)
+
 ### 🧾 Form & Validation
 
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge\&logo=reacthookform\&logoColor=white)
