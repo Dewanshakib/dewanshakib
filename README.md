@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-* 🌱 Currently learning **Microservices and Distributed Systems** & exploring **DevOps**
+* 🌱 Currently learning **C#** & **.NET** Backend Development
 * 🧠 Building full-stack applications using **Next.js** & **NestJS**
 * 🧩 Passionate about **AI**, **backend architecture**, and **scalable systems**
 * 🏁 Actively practicing **DSA & Competitive Programming**
