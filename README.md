@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-* 🌱 Currently learning **C#** & **.NET** Backend Development
+* 🌱 Currently building projects to improve Backend Development using **NestJs**
 * 🧠 Building full-stack applications using **Next.js** & **NestJS**
 * 🧩 Passionate about **AI**, **backend architecture**, and **scalable systems**
 * 🏁 Actively practicing **DSA & Competitive Programming**
@@ -27,9 +27,10 @@
 
 ## 🏁 Competitive Programming Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/shakib.devv)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/d1_shakib)
-[![AtCoder](https://img.shields.io/badge/AtCoder-%23222222.svg?style=for-the-badge\&logo=atcoder\&logoColor=white)](https://atcoder.jp/users/d1_shakib)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/shakib_dev/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shakib.devv)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/d1_shakib)
+[![AtCoder](https://img.shields.io/badge/AtCoder-%23222222.svg?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/d1_shakib)
 
 🧠 Focus Areas:
 
