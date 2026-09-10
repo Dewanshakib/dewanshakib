@@ -1,4 +1,3 @@
-
 # 👋 Assalamualaikum, I'm Shakib
 
 ### 🚀 Full-Stack Web Developer | 🧠 AI Enthusiast
@@ -7,9 +6,10 @@
 
 ## 💫 About Me
 
-* 🌱 Currently building projects to improve Backend Development using **NestJs**
-* 🧠 Building full-stack applications using **Next.js** & **NestJS**
-* 🧩 Passionate about **AI**, **backend architecture**, and **scalable systems**
+* 🌱 Currently deepening my **Backend Development** skills with **NestJS**
+* 🧠 Building full-stack applications with **Next.js** & **NestJS**
+* 🤖 Exploring **AI, LLMs, RAG & AI Agents**
+* 🧩 Interested in **backend architecture** and **scalable systems**
 * 🏁 Actively practicing **DSA & Competitive Programming**
 
 > *“Success is finite but the effort for trying is ♾️”* ⚡
@@ -18,24 +18,25 @@
 
 ## 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/shakib.dewan.984)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/d1__shakib)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:shakib.devv@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dewan-md-shakib-al-mujib-892900372)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge\&logo=Facebook\&logoColor=white)](https://facebook.com/shakib.dewan.984)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/d1__shakib)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shakib.devv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dewan-md-shakib-al-mujib-892900372)
 
 ---
 
-## 🏁 Competitive Programming Profiles
+## 🏁 Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/shakib_dev/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shakib.devv)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/d1_shakib)
-[![AtCoder](https://img.shields.io/badge/AtCoder-%23222222.svg?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/d1_shakib)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge\&logo=leetcode\&logoColor=yellow)](https://leetcode.com/u/shakib_dev/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/shakib.devv)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/d1_shakib)
+[![AtCoder](https://img.shields.io/badge/AtCoder-%23222222.svg?style=for-the-badge\&logo=atcoder\&logoColor=white)](https://atcoder.jp/users/d1_shakib)
 
-🧠 Focus Areas:
+### 🧠 Focus Areas
 
 * Data Structures & Algorithms
 * Problem Solving with **C / C++**
+* Competitive Programming
 * Contest-based logical thinking
 
 ---
@@ -73,18 +74,21 @@
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge\&logo=redis\&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash-%23000000.svg?style=for-the-badge\&logo=upstash\&logoColor=white)
 
-### 🔄 Microservices
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white&color=231F20)
-![BullMQ](https://img.shields.io/badge/BullMQ-%23E34F26?style=for-the-badge&logo=redis&logoColor=white&color=DC382D)
+### 🔄 Microservices & Queues
 
-### 🧾 Form & Validation
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000.svg?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23DC382D.svg?style=for-the-badge\&logo=bullmq\&logoColor=white)
+
+### 🧾 Forms & Validation
 
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge\&logo=reacthookform\&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-292929?style=for-the-badge\&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-292929.svg?style=for-the-badge\&logo=zod\&logoColor=white)
 
 ### 🛠️ Tools & Services
 
-![Nodemailer](https://img.shields.io/badge/Nodemailer-246?style=for-the-badge\&logo=nodemailer\&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-246.svg?style=for-the-badge\&logo=nodemailer\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
 
 ### 💳 Payment Integration
 
@@ -92,7 +96,7 @@
 
 ---
 
-## 🧰 Languages I Work With
+## 🧰 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
@@ -104,9 +108,24 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats-psi-seven.vercel.app/?user=Dewanshakib&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dewanshakib&layout=compact&theme=radical" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dewanshakib&theme=radical&hide_border=true" />
+
 </div>
 
 ---
+
+## 📌 Featured Projects
+
+* 🚀 **Preronaa** — Pinterest-style full-stack platform built with Next.js & MongoDB
+* 🤖 **ProcessI** — AI-powered developer interview & job tracking platform
+* 🔗 **URL Shortener** — Production-oriented Bitly-style backend built with NestJS
+
+---
+
+<div align="center">
+
+### 💻 Keep Building. Keep Learning. Keep Shipping. 🚀
+
+</div>
